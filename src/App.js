@@ -8,4 +8,4 @@ function App(props) {
   );
 }
 
-export default App;<h1>Test</h1>
+export default App;
